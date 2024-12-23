@@ -1,2 +1,6 @@
 ipykernel
 python-dotenv
+jupyter
+matplotlib
+pandas
+numpy

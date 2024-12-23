@@ -88,6 +88,8 @@ target/
 
 # Exclude virtual environment
 .venv/
+*.venv
+
 
 # Exclude trained models
 /models/
